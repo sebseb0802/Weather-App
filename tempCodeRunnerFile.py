@@ -1,0 +1,1 @@
+cityNameEntryLabel = ttk.Label(master, text="Enter the name of the city/region: ", background="systemTransparent")
